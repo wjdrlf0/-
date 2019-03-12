@@ -1,0 +1,12 @@
+urllib.py==0.16.12
+urllib.request.py==0.16.12
+bs4.py==0.16.12
+discord.py==0.16.12
+asyncio.py==0.16.12
+random.py==0.16.12
+time.py==0.16.12
+datetime.py==0.16.12
+image.py==0.16.12
+sys.py==0.16.12
+os.py==0.16.12
+datetime.py==0.16.12
